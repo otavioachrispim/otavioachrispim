@@ -6,8 +6,8 @@
 ## Olá pessoal 👋
 Sou estudante da Rocketseat buscando resolver problemas utilizando a programação. :computer:
 
- <br/> :blue_heart: &nbsp; Estudando e executando projetos em Front-end
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript
+ <br/> :blue_heart: &nbsp; Estudando e executando projetos em Front-end & Back-End
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, NodeJS, Nunjucks
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e livros sobre biografias
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-OtavioAugusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otávio-augusto-chrispim-9b00b88b/)](https://www.linkedin.com/in/otávio-augusto-chrispim-9b00b88b/) 
 | 
