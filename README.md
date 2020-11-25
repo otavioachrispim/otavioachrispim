@@ -4,7 +4,7 @@
 # Otávio Augusto Chrispim
 
 ## Olá pessoal 👋
-Sou estudante da Rocketseat buscando resolver problemas utilizando a programação. :computer:
+Developer FullStack buscando resolver problemas utilizando a programação. :computer:
 
  <br/> :blue_heart: &nbsp; Estudando e executando projetos em Front-end & Back-End
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, NodeJS, Nunjucks
