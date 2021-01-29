@@ -1,6 +1,3 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4D03AQE54WOdIfuaFw/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=DDVKK93R4Ja98aO7wsDZwQ-NO1YQ1QpQQnIOKFcJJEo">
-
-
 # Otávio Augusto Chrispim
 
 ## Olá pessoal 👋
