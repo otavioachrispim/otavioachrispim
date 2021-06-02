@@ -1,7 +1,6 @@
-# Otávio Augusto Chrispim
-
 ## Olá pessoal 👋
-Developer Front-End buscando resolver problemas utilizando a programação. :computer:
+
+Me chamo Otávio Augusto Chrispim de Paiva 👨‍💻 , sou Dev Front-End Jr em busca de resolver problemas que afetam as pessoas no cotidiano utilizando a programação. :computer:
 
  <br/> :blue_heart: &nbsp; Front-End Developer
  <br/> :computer: &nbsp; Minha stack: ReactJS, NextJS, Typescript, JavaScript.
