@@ -1,4 +1,4 @@
-## Otávio Augusto Chrispim de Paiva👨🏽‍💻
+## Otávio Augusto Chrispim de Paiva
 
 👋Ola, sou Dev Front-End em busca de resolver problemas que afetam as pessoas no cotidiano utilizando a programação. :computer:
 
