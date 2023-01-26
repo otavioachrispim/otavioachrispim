@@ -10,11 +10,6 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-otaviochrispim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviochrispim@gmail.com)](otaviochrispim@gmail.com)
 
-<div>
-  <a href="https://github.com/otavioachrispim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioachrispim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioachrispim&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
 
